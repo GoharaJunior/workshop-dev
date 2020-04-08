@@ -7,6 +7,10 @@
 </p>
 
 <h1 align="center">
+    <img alt="Launchbase" src="https://i.imgur.com/nctZ0kk.png" />
+</h1>
+
+<h1 align="center">
     <img alt="Launchbase" src="https://i.imgur.com/X4VAXVY.png" />
 </h1>
 
